@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/interceptors:v0.15.1@sha256:726c308bcab1d746b0cb3b90c5f6abbea64da34459681cba2143c34c337cdc94
+FROM gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard@sha256:81c6e5343eba03333b3bc7bbee2977090daf559d550ae22e570b9d1e1e52c471
 MAINTAINER cantevenl <591589948@qq.com>

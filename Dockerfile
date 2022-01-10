@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/controller:v0.15.1@sha256:8a1a584fdaf0d29c6229f704947fbf5d46c0d0aa18d056bb040cdc5f66c99e54
+FROM gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/webhook:v0.15.1@sha256:aec4d99d11f78ca64a9143f03c79fe47a6b2838211ab88d8734e265f3ca722a4
 MAINTAINER cantevenl <591589948@qq.com>

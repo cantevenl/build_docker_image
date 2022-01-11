@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/kubeconfigwriter:v0.27.2@sha256:2c45a94887cefa7a72ec10c8c58379cc96b4182ab440019b6e7753916e6401db
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:v0.27.2@sha256:c6c73b718754b55b200297b8d0cd66709a542b1da8af8c6cd7a6618f3b7f9adb
 MAINTAINER cantevenl <591589948@qq.com>

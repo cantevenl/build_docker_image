@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:v0.27.2@sha256:c6c73b718754b55b200297b8d0cd66709a542b1da8af8c6cd7a6618f3b7f9adb
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.27.2@sha256:22880cbc450a6d4aab4fd67e94d25d89b2c719a5a9780bb612b7a72b7f180086
 MAINTAINER cantevenl <591589948@qq.com>

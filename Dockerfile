@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/nop:v0.27.2@sha256:6b1fbd79462c3773ba131ba15ef651f1c892ae5370d829d825c3767578c7110a
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/imagedigestexporter:v0.27.2@sha256:f97f02f2ed32562f98b237935f8eaeb9221ae654a32f15b4af414c6d319ba3f6
 MAINTAINER cantevenl <591589948@qq.com>

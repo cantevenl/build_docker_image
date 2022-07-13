@@ -1,2 +1,2 @@
-gcr.io/knative-releases/knative.dev/operator/cmd/operator@sha256:e1ea271f1292aed1d4700d1e6e8d12b92a5befc6f293da20dde2599d722db699
+from gcr.io/knative-releases/knative.dev/operator/cmd/operator@sha256:5b3b03279208cf8500ccd7ca75970358f17e3186ef04ebe04fe7c215fe75c69d
 MAINTAINER cantevenl <591589948@qq.com>

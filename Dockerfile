@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:0fdd0f9e6a7698cf3ecec9494c46509109345476a99f21f4cc5117dff5c9dda4
+FROM registry.k8s.io/ingress-nginx/controller@sha256:54f7fe2c6c5a9db9a0ebf1131797109bb7a4d91f56b9b362bde2abd237dd1974
 MAINTAINER cantevenl <591589948@qq.com>
